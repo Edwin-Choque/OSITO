@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+}
+.color{
+    border-radius: 100%;
+    background-color: brown;
+    position: absolute;
+}
+.caja1{
+    background-color: aquamarine;
+    width: 500px;
+    height: 1000px;
+    border: 100px;
+    border-color: aqua;
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+.oreja1{
+    width: 80px;
+    height: 80px;
+    left: 100px;
+    top: 150px;
+}
+.oreja2{
+    width: 80px;
+    height: 80px;
+    left: 320px;
+    top: 150px;
+}
+.cabeza{
+    width: 200px;
+    height: 200px;
+    top: 150px;
+    left: 150px;
+
+}
+.ojo1{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    top: 70px;
+    left: 50px;
+}
+.ojo2{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    top: 70px;
+    left: 130px;
+}
+.barbilla{
+    height: 100px;
+    width: 100px;
+    background-color: antiquewhite;
+    top: 100px;
+    left: 50px;
+
+}
+.nariz{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    left: 30px;
+}
+.cuerpo{
+    height: 250px;
+    width: 200px;
+    top: 340px;
+    left: 150px;
+}
+.pansita{
+    width: 150px;
+    height: 200px;
+    background-color: antiquewhite;
+    left: 25px;
+}
+.pata1{
+    width: 120px;
+    height: 90px;
+    top: 350px;
+    left: 60px;
+}
+.pata2{
+    width: 120px;
+    height: 90px;
+    top: 350px;
+    left: 320px;
+}
+.pata3{
+    width: 120px;
+    height: 90px;
+    top: 520px;
+    left: 80px;
+}
+.pata4{
+    width: 120px;
+    height: 90px;
+    top: 520px;
+    left: 300px;
+}
